@@ -58,6 +58,12 @@ c = a
 a = b 
 b = c 
 
+//---------------------------------------------------
+
+
+
+
+
 console.log("novo valor de a e" , a) 
 console.log("valor de b e b" , b)
 
